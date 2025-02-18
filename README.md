@@ -1,6 +1,6 @@
 ## Hi, I'm Łukasz 👋
 
-# Łukasz Watral - Portfolio
+# Łukasz Watral
 
 My name is Łukasz Watral. I'm a third-year computer science student at the West Pomeranian University of Technology in Szczecin (ZUT).
 
@@ -13,6 +13,10 @@ Group project, system for displaying classes schedule. Done.
 
 ### * [PHP, JavaScript, HTML, CSS](https://github.com/lukaszwatral/Semester5/tree/main/WebApplications1)
 Web applications using PHP, JavaScript, HTML, CSS.
+
+## [My Certificates](https://github.com/lukaszwatral/certificates)
+
+[Certificates]
 
 ## Contact
 
