@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Łukasz 👋
 
-<!--
-**lukaszwatral/lukaszwatral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Łukasz Watral - Portfolio
 
-Here are some ideas to get you started:
+My name is Łukasz Watral. I'm a third-year computer science student at the West Pomeranian University of Technology in Szczecin (ZUT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for an internship.
+
+## Projects and Technologies
+
+### * [Better University Schedule](https://github.com/lukaszwatral/projekt-calete)
+Group project, system for displaying classes schedule. Done.
+
+### * [PHP, JavaScript, HTML, CSS](https://github.com/lukaszwatral/Semester5/tree/main/WebApplications1)
+Web applications using PHP, JavaScript, HTML, CSS.
+
+## Contact
+
+- Email: lukaszwatral@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/łukasz-watral-24bb05351/)
+
