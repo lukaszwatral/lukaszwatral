@@ -29,8 +29,13 @@ Group project, system for displaying classes schedule. Done.
 - [Python/Java](https://github.com/lukaszwatral/Semester5/tree/main/ArtificialIntelligence)
 
 ### • Math
-- [Numerical Methods](https://github.com/lukaszwatral/Semester3/tree/main/Numerical%20Methods)
-- [Mathematical Statistics](https://github.com/lukaszwatral/Semester2/tree/main/Mathematical%20Statistics)
+- [Numerical Methods - Matlab](https://github.com/lukaszwatral/Semester3/tree/main/Numerical%20Methods)
+- [Mathematical Statistics - R](https://github.com/lukaszwatral/Semester2/tree/main/Mathematical%20Statistics)
+
+### • Other
+- Cybersecurity
+- Linux
+- Git
 
 ## My Certificates
 [Certificates](https://github.com/lukaszwatral/certificates)
