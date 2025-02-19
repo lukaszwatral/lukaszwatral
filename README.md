@@ -32,7 +32,8 @@ Group project, system for displaying classes schedule. Done.
 - [Numerical Methods - Matlab](https://github.com/lukaszwatral/Semester3/tree/main/Numerical%20Methods)
 - [Mathematical Statistics - R](https://github.com/lukaszwatral/Semester2/tree/main/Mathematical%20Statistics)
 
-### • Other
+### • I also know basis of:
+- C#
 - Cybersecurity
 - Linux
 - Git
